@@ -1,0 +1,11 @@
+D:\Projects\CSharp\jpx\bin\Debug\jpx.exe.config
+D:\Projects\CSharp\jpx\bin\Debug\jpx.exe
+D:\Projects\CSharp\jpx\bin\Debug\jpx.pdb
+D:\Projects\CSharp\jpx\obj\Debug\jpx.csproj.AssemblyReference.cache
+D:\Projects\CSharp\jpx\obj\Debug\jpx.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CSharp\jpx\obj\Debug\jpx.Form1.resources
+D:\Projects\CSharp\jpx\obj\Debug\jpx.Properties.Resources.resources
+D:\Projects\CSharp\jpx\obj\Debug\jpx.csproj.GenerateResource.cache
+D:\Projects\CSharp\jpx\obj\Debug\jpx.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\jpx\obj\Debug\jpx.exe
+D:\Projects\CSharp\jpx\obj\Debug\jpx.pdb
